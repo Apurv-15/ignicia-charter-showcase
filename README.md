@@ -1,6 +1,6 @@
 # Ignicia Charter — Fleet Booking & Logistics Dispatch
 
-> **Live Portal (Vercel):** [https://ignicia-charter-demo.vercel.app](https://ignicia-charter-demo.vercel.app)  
+> **Live Production Web Portal:** [https://greffon-technology.vercel.app](https://greffon-technology.vercel.app)  
 > **Client:** Ignicia Technologies  
 > **Tech Stack:** React, Node.js, WebSockets, Google Maps API
 
@@ -18,9 +18,9 @@ Ignicia Charter is a full-stack transport logistics platform that automates char
 
 ---
 
-## 🔗 Reviewing the Live Portal
-Visit the live Vercel portal preview:  
-👉 **[https://ignicia-charter-demo.vercel.app](https://ignicia-charter-demo.vercel.app)**
+## 🔗 Live Application Link
+Visit the live Vercel portal:  
+👉 **[https://greffon-technology.vercel.app](https://greffon-technology.vercel.app)**
 
 ---
 
